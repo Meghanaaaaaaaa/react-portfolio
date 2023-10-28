@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Music Blog",
+    "imageSrc": "./projects/project.jpeg",
+    "description": "The blog project where users can publish music posts.",
+    "skills": ["React", "Javascript", "HTML", "CSS Module"],
+    "demo": "http://Meghanaaaaaaaa.github.io/react-blog",
+    "source": "https://github.com/Meghanaaaaaaaa/react-blog"
+  },
+  {
+    "title": "Fetch API data",
+    "imageSrc": "./projects/project.jpeg",
+    "description": "This is a project made to fetch the data from an app.",
+    "skills": ["React", "Axios", "Html", "CSS"],
+    "demo": "http://Meghanaaaaaaaa.github.io/fetch-data",
+    "source": "https://github.com/Meghanaaaaaaaa/fetch-data"
+  },
+  {
+    "title": "Colour Search",
+    "imageSrc": "projects/project.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "HTML5", "CSS"],
+    "demo": "http://Meghanaaaaaaaa.github.io/colour-search",
+    "source": "https://github.com/Meghanaaaaaaaa/colour-search"
+  },
+  {
+    "title": "TODO List",
+    "imageSrc": "./project.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "HTML5", "CSS"],
+    "demo": "http://Meghanaaaaaaaa.github.io/todo-list",
+    "source": "https://github.com/Meghanaaaaaaaa/todo-list"
+  },
+  {
+    "title": "Wordle Game",
+    "imageSrc": "./wordle-game.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Javascript", "HTML5", "CSS"],
+    "demo": "https://meghana-bh-wordle-game.netlify.app/",
+    "source": "https://github.com/Meghanaaaaaaaa/colour-search"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "HTML5", "Material UI"],
+    "demo": "http://Meghanaaaaaaaa.github.io/colour-search",
+    "source": "https://github.com/Meghanaaaaaaaa/colour-search"
+  }
+]
